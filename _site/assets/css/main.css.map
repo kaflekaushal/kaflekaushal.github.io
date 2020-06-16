@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"$backgroundColor: #ffffff;\n$bodyColor: #000000;\n$bodyFont: -apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n}\n\n.main-menu{\n  background-color: #00305c;\n}\n\n.other-publication, .news-coverage{\n  border-top: 2px solid #e8e8e8;\n  padding-top: 15px;\n}\n\n.page-content{\n  padding: 30px;\n  font-family: 'Titillium Web', sans-serif;\n}\n\n.image-container{\n  max-width: 200px;\n  // padding-right: 50px;\n}\n\n.site-footer{\n  position: relative;\n  background-color: #f8f9fa;\n  bottom: 0;\n  width: 100%;\n  border-top: 2px solid #e8e8e8;\n  margin-top: 75px;\n  padding: 30px;\n}\n\n.social-media-list li{\n  padding-bottom: 5px;\n}\n\n.footer-col ul,ol{\n  list-style: none;\n  font-family: 'Raleway', sans-serif;\n  font-weight: 500;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACIA,AAAA,IAAI,CAAC,EACH,UAAU,EALM,OAAO,EAMvB,KAAK,EALK,OAAO,EAMjB,WAAW,EALF,aAAa,EAAC,kBAAkB,EAAC,UAAU,EAAC,SAAS,EAAC,KAAK,EAAC,UAAU,EAAC,mBAAmB,EAAC,gBAAgB,EAAC,iBAAiB,GAMvI;;AAED,AAAA,UAAU,CAAA,EACR,gBAAgB,EAAE,OAAO,GAC1B;;AAED,AAAA,kBAAkB,EAAE,cAAc,CAAA,EAChC,UAAU,EAAE,iBAAiB,EAC7B,WAAW,EAAE,IAAI,GAClB;;AAED,AAAA,aAAa,CAAA,EACX,OAAO,EAAE,IAAI,EACb,WAAW,EAAE,2BAA2B,GACzC;;AAED,AAAA,gBAAgB,CAAA,EACd,SAAS,EAAE,KAAK,GAEjB;;AAED,AAAA,YAAY,CAAA,EACV,QAAQ,EAAE,QAAQ,EAClB,gBAAgB,EAAE,OAAO,EACzB,MAAM,EAAE,CAAC,EACT,KAAK,EAAE,IAAI,EACX,UAAU,EAAE,iBAAiB,EAC7B,UAAU,EAAE,IAAI,EAChB,OAAO,EAAE,IAAI,GACd;;AAED,AAAA,kBAAkB,CAAC,EAAE,CAAA,EACnB,cAAc,EAAE,GAAG,GACpB;;AAED,AAAA,WAAW,CAAC,EAAE,EAAC,EAAE,CAAA,EACf,UAAU,EAAE,IAAI,EAChB,WAAW,EAAE,qBAAqB,EAClC,WAAW,EAAE,GAAG,GACjB"
+}

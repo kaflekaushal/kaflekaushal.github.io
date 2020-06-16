@@ -1,0 +1,16 @@
+url: "https://www.kaushalkafle.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Kaushal Kafle" # the name of your site, e.g. ACME Corp.
+email: kkafle@cs.wm.edu
+twitter_username: kaushalkafle
+linkedin_username: kaflekaushal
+github_username: kaflekaushal
+#address: Department of Computer Science | College of William & Mary | 251 Jamestown Road | Williamsburg | VA - 23185 USA
+address: |
+  Department of Computer Science
+  College of William & Mary
+  251 Jamestown Road
+  Williamsburg
+  VA - 23185 USA
+
+markdown: kramdown

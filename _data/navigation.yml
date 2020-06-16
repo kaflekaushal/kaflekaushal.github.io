@@ -1,0 +1,11 @@
+# - name: Bio
+#   link: "/bio"
+
+- name: Publications
+  link: "/publications"
+
+- name: CV
+  link: "/assets/pdf/cv.pdf"
+
+- name: "Lab"
+  link: "https://spl-wm.github.io/"

@@ -1,0 +1,17 @@
+body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+
+.main-menu { background-color: #00305c; }
+
+.other-publication, .news-coverage { border-top: 2px solid #e8e8e8; padding-top: 15px; }
+
+.page-content { padding: 30px; font-family: 'Titillium Web', sans-serif; }
+
+.image-container { max-width: 200px; }
+
+.site-footer { position: relative; background-color: #f8f9fa; bottom: 0; width: 100%; border-top: 2px solid #e8e8e8; margin-top: 75px; padding: 30px; }
+
+.social-media-list li { padding-bottom: 5px; }
+
+.footer-col ul, ol { list-style: none; font-family: 'Raleway', sans-serif; font-weight: 500; }
+
+/*# sourceMappingURL=main.css.map */

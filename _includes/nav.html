@@ -1,0 +1,38 @@
+<nav class="main-menu navbar navbar-expand-lg navbar-dark">
+  <div class="container">
+
+    <!-- Hamburger button -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="d-flex">
+      <div class="p-2">
+      <a class="navbar-brand" href="/">{{site.title}}</a>
+      </div>
+    </div>
+
+    <div class="d-flex">
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <div class="navbar-nav">
+          {%for item in site.data.navigation %}
+          {% if page.url == item.link %}
+          <div class="p-2">
+            <a class="nav-item nav-link active" href="{{item.link}}">{{item.name}}</a>
+          </div>
+          {% elsif item.link contains "http" %}
+          <div class="p-2">
+            <a class="nav-item nav-link" href="{{item.link}}" target="_blank">{{item.name}}</a>
+          </div>
+
+          {% else %}
+          <div class="p-2">
+            <a class="nav-item nav-link" href="{{item.link}}">{{item.name}}</a>
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

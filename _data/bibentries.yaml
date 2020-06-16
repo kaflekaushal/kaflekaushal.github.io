@@ -1,0 +1,67 @@
+- type: conference
+  link: assets/pdf/manandhar-oakland20
+  website: "https://github.com/helion-security/helion"
+  title: Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses
+  author: Sunil Manandhar and Kevin Moran and Kaushal Kafle and Denys Poshyvanyk and Adwait Nadkarni
+  venue: Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland)
+  date: May, 2020
+  bib: |
+    @INPROCEEDINGS{manandhar-oakland20,
+     author={Sunil Manandhar and Kevin Moran and Kaushal Kafle and Denys Poshyvanyk and Adwait Nadkarni},
+     title={{Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses}},
+     booktitle={Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland)},
+     year={2020},
+     month= may,
+     address={San Francisco, California, USA}
+     }
+
+- type: conference
+  link: assets/pdf/kafle-codaspy19
+  press: "/#press_coverage"
+  title: A Study of Data Store-based Home Automation
+  author: Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 9th ACM Conference on Data and Application Security and Privacy (CODASPY)
+  date: March, 2019
+  note: Best Paper Award!
+  bib: |
+    @INPROCEEDINGS{kafle-codaspy19,
+     author={Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{A Study of Data Store-based Home Automation}},
+     booktitle={Proceedings of the 9th ACM Conference on Data and Application Security and Privacy
+     (CODASPY)},
+     year={2019},
+     address = {Dallas, TX, USA},
+     month= mar,
+     }
+
+- type: conference
+  link: assets/pdf/bonett-sec18
+  website: https://muse-security-evaluation.github.io/
+  title: Discovering Flaws in Security-Focused Static Analysis Tools for Android using Systematic Mutation
+  author: Richard Bonett and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 27th USENIX Security Symposium
+  date: August, 2018
+  bib: |
+    @INPROCEEDINGS{bonett-sec18,
+     author={Richard Bonett and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Discovering Flaws in Security-Focused Static Analysis Tools for Android using Systematic Mutation}},
+     booktitle={Proceedings of the 27th USENIX Security Symposium},
+     year={2018},
+     address = {Baltimore, MD, USA},
+     month= aug,
+    }
+
+- type: undergrad
+  link: assets/pdf/kafle-ioegc16
+  title: Improving Nepali Document Classification by Neural Network
+  author: Kaushal Kafle and Diwas Sharma and Aayush Subedi and Arun Kr. Timalsina
+  venue: Proceedings of IOE Graduate Conference
+  date: 2016
+  bib: |
+    @INPROCEEDINGS{kafle-ioegc16,
+      title={Improving Nepali Document Classification by Neural Network},
+      author={Kafle, Kaushal and Sharma, Diwas and Subedi, Aayush and Timalsina, Arun Kr},
+      booktitle={Proceedings of IOE Graduate Conference},
+      pages={317--322},
+      year={2016}
+    }
