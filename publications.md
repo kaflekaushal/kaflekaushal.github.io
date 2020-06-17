@@ -110,9 +110,8 @@ permalink: /publications
       {% endfor %}
     </ul>
   </div>
+  <div class="news-coverage">
+    {% include press_coverage.html %}
+  </div>
 
-  {% include press_coverage.html %}
 </div>
-
-<script type="text/javascript" src="assets/js/collapsiblebib.js">
-</script>
