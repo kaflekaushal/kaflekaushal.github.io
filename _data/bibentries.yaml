@@ -16,7 +16,7 @@
      }
 - type: conference
   link: assets/pdf/kafle-codaspy19
-  press: "/#press_coverage"
+  press: "/publications/#press"
   title: A Study of Data Store-based Home Automation
   author: Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk
   venue: Proceedings of the 9th ACM Conference on Data and Application Security and Privacy (CODASPY)
