@@ -14,7 +14,6 @@
      month= may,
      address={San Francisco, California, USA}
      }
-
 - type: conference
   link: assets/pdf/kafle-codaspy19
   press: "/#press_coverage"
@@ -33,7 +32,6 @@
      address = {Dallas, TX, USA},
      month= mar,
      }
-
 - type: conference
   link: assets/pdf/bonett-sec18
   website: https://muse-security-evaluation.github.io/
@@ -50,7 +48,6 @@
      address = {Baltimore, MD, USA},
      month= aug,
     }
-
 - type: undergrad
   link: assets/pdf/kafle-ioegc16
   title: Improving Nepali Document Classification by Neural Network
