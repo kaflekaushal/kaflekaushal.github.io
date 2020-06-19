@@ -8,7 +8,7 @@
 
     <div class="d-flex">
       <div class="p-2">
-      <a class="navbar-brand" href="/">{{site.title}}</a>
+      <a class="navbar-brand" href="{{ site.baseurl }}">{{site.title}}</a>
       </div>
     </div>
 
@@ -18,16 +18,16 @@
           {%for item in site.data.navigation %}
           {% if page.url == item.link %}
           <div class="p-2">
-            <a class="nav-item nav-link active" href="{{item.link}}">{{item.name}}</a>
+            <a class="nav-item nav-link active" href="{{ item.link }}">{{item.name}}</a>
           </div>
           {% elsif item.link contains "http" %}
           <div class="p-2">
-            <a class="nav-item nav-link" href="{{item.link}}" target="_blank">{{item.name}}</a>
+            <a class="nav-item nav-link" href="{{ item.link }}" target="_blank">{{item.name}}</a>
           </div>
 
           {% else %}
           <div class="p-2">
-            <a class="nav-item nav-link" href="{{item.link}}">{{item.name}}</a>
+            <a class="nav-item nav-link" href="{{ item.link }}">{{item.name}}</a>
           </div>
           {% endif %}
           {% endfor %}

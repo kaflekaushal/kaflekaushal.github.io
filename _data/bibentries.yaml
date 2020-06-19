@@ -1,5 +1,5 @@
 - type: conference
-  link: /assets/pdf/manandhar-oakland20
+  link: assets/pdf/manandhar-oakland20
   website: "https://github.com/helion-security/helion"
   title: Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses
   author: Sunil Manandhar and Kevin Moran and Kaushal Kafle and Denys Poshyvanyk and Adwait Nadkarni
@@ -15,8 +15,8 @@
      address={San Francisco, California, USA}
      }
 - type: conference
-  link: /assets/pdf/kafle-codaspy19
-  press: "/publications/#press"
+  link: assets/pdf/kafle-codaspy19
+  press: "publications.html#press"
   title: A Study of Data Store-based Home Automation
   author: Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk
   venue: Proceedings of the 9th ACM Conference on Data and Application Security and Privacy (CODASPY)
@@ -33,7 +33,7 @@
      month= mar,
      }
 - type: conference
-  link: /assets/pdf/bonett-sec18
+  link: assets/pdf/bonett-sec18
   website: https://muse-security-evaluation.github.io/
   title: Discovering Flaws in Security-Focused Static Analysis Tools for Android using Systematic Mutation
   author: Richard Bonett and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
@@ -49,7 +49,7 @@
      month= aug,
     }
 - type: undergrad
-  link: /assets/pdf/kafle-ioegc16
+  link: assets/pdf/kafle-ioegc16
   title: Improving Nepali Document Classification by Neural Network
   author: Kaushal Kafle and Diwas Sharma and Aayush Subedi and Arun Kr. Timalsina
   venue: Proceedings of IOE Graduate Conference
