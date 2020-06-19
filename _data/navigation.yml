@@ -1,8 +1,8 @@
-- name: Bio
-  link: "bio"
+# - name: Bio
+#   link: "bio"
 
 - name: Publications
-  link: "publications.html"
+  link: "/publications"
 
 - name: CV
   link: "assets/pdf/cv.pdf"
