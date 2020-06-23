@@ -1,11 +1,14 @@
 .site-footer{
   position: relative;
-  background-color: #f8f9fa;
+  // background-color: #f8f9fa;
   bottom: 0;
   width: 100%;
   border-top: 2px solid #e8e8e8;
   margin-top: 75px;
   padding: 30px;
+  // background-color: #ffffff;
+	background-image: linear-gradient(320deg, #f9fff9 0%, #e5e8ec 74%);
+  display: flex;
 }
 
 .footer-col ul,ol{
@@ -14,6 +17,55 @@
   font-weight: 500;
 }
 
-.social-media-list li{
-  padding-bottom: 5px;
+// .social-media-list li{
+//   padding-bottom: 0px;
+// }
+
+.media-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.media-icon {
+	cursor: pointer;
+	height: auto;
+	width: 40px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #333;
+	border-radius: 10px;
+	box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+	background: #f2f2f2;
+	margin: 10px;
+	transition: 0.75s;
+}
+
+.media-icon span {
+	width: 0px;
+	overflow: hidden;
+	transition: 1s;
+	text-align: center;
+}
+
+.media-icon:hover {
+	width: 150px;
+	border-radius: 5px;
+}
+
+.media-icon:hover span {
+	padding: 2px;
+	width: max-content;
+}
+
+
+#twitter svg {
+	fill: #1da1f2;
+}
+
+#linkedin svg {
+	fill: #0e76a8;
+}
+
+#github {
+	fill: #333;
 }
