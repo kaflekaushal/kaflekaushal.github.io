@@ -17,26 +17,24 @@
   font-weight: 500;
 }
 
-// .social-media-list li{
-//   padding-bottom: 0px;
-// }
-
-.media-icon{
+.social-media-list{
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .media-icon {
+  display: flex;
+  justify-content: flex-end;
 	cursor: pointer;
-	height: auto;
+	// height: auto;
 	width: 40px;
 	font-family: 'Titillium Web', sans-serif;
 	color: #333;
 	border-radius: 10px;
 	box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-	background: #f2f2f2;
-	margin: 10px;
+	background: #f2f2f275;
+	margin: 5px;
 	transition: 0.75s;
 }
 
@@ -50,6 +48,7 @@
 .media-icon:hover {
 	width: 150px;
 	border-radius: 5px;
+  justify-content: center;
 }
 
 .media-icon:hover span {
@@ -62,7 +61,7 @@
 }
 
 #twitter svg {
-	fill: #1da1f2;
+	fill: #55aceeff;
 }
 
 #linkedin svg {
