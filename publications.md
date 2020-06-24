@@ -44,7 +44,7 @@ title: Publications
           </li>
           {% endif %}
           <li class="bibtex">
-            <button type="button" class="bib-collapsible btn btn-info btn-sm rounded-pill">Cite</button>
+            <button type="button" class="bib-collapsible btn btn-info btn-sm rounded-pill">Bibtex</button>
             <div class="bib-button-content">
               <figure class="full-bib highlight">
                 <pre>{{ entry.bib | rstrip }} </pre>
@@ -98,7 +98,7 @@ title: Publications
           </li>
           {% endif %}
           <li>
-            <button type="button" class="bib-collapsible btn btn-info btn-sm rounded-pill">Cite</button>
+            <button type="button" class="bib-collapsible btn btn-info btn-sm rounded-pill">Bibtex</button>
             <div class="bib-button-content">
               <figure class="full-bib highlight">
                 <pre>{{ entry.bib | rstrip }} </pre>

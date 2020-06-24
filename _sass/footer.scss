@@ -57,6 +57,9 @@
 	width: max-content;
 }
 
+.username{
+  margin-left: 10px;
+}
 
 #twitter svg {
 	fill: #1da1f2;
@@ -68,4 +71,8 @@
 
 #github {
 	fill: #333;
+}
+
+.site-footer a:link {
+  text-decoration: none;
 }

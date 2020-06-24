@@ -22,3 +22,14 @@ body {
   border-bottom: 2px solid #e8e8e8;
   margin-bottom: 10px;
 }
+
+.page-content a:link, .page-content a:visited {
+  // background-color: #f44336;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.page-content a:hover, .page-content a:active {
+  color: #117a8b;
+  // background-color: #f3f5f7;
+}
