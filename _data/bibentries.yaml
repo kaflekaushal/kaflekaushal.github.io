@@ -11,11 +11,11 @@
      year={2021}
      }
 - type: journal
-  link: assets/pdf/kafle-tcps20-preprint
+  link: https://doi.org/10.1145/3418286
   title: Security in Centralized Data Store-based Home Automation Platforms- A Systematic Analysis of Nest and Hue
   author: Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk
   venue: ACM Transactions on Cyber-Physical Systems (TCPS)
-  date: To appear
+  date: December, 2020
   bib: |
     @INPROCEEDINGS{kafle-tcps20,
      author={Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk},
