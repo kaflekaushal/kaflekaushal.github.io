@@ -33,7 +33,7 @@ title: Publications
         {% if entry.link or entry.press or entry.website %}
         <li class="paper-links">
           {% if entry.link %}
-          <a href="{{entry.link | append: '.pdf' | relative_url }}">[PDF]</a>
+          <a href="{{entry.link | relative_url }}">[PDF]</a>
           {% endif %}
           {% if entry.website%}
           <a href="{{entry.website}}" target="_blank">[Website]</a>
@@ -85,7 +85,7 @@ title: Publications
           {% if entry.link or entry.press or entry.website %}
           <li class="paper-links">
             {% if entry.link %}
-            <a href="{{entry.link | append: '.pdf' | relative_url }}">[PDF]</a>
+            <a href="{{entry.link | relative_url }}">[PDF]</a>
             {% endif %}
             {% if entry.website%}
             <a href="{{entry.website}}" target="_blank">[Website]</a>
@@ -139,7 +139,7 @@ title: Publications
           {% if entry.link or entry.press or entry.website %}
           <li class="paper-links">
             {% if entry.link %}
-            <a href="{{entry.link | append: '.pdf'}}">[PDF]</a>
+            <a href="{{entry.link }}">[PDF]</a>
             {% endif %}
             {% if entry.website%}
             <a href="{{entry.website}}" target="_blank">[Website]</a>
