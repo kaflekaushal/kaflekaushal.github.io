@@ -1,3 +1,6 @@
 .jekyll-cache/
 _site/
 _includes/footer_backup.html
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
