@@ -24,6 +24,19 @@
      year={2020}
      }
 - type: conference
+  title: "Demo: Mutation-based Evaluation of Security-focused Static Analysis Tools for Android"
+  author: Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)
+  date: To appear
+  bib: |
+    @INPROCEEDINGS{manandhar-oakland20,
+     author={Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Demo: Mutation-based Evaluation of Security-focused Static Analysis Tools for Android}},
+     booktitle={Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)},
+     year={2021},
+     month= may,
+     }
+- type: conference
   link: assets/pdf/manandhar-oakland20.pdf
   website: "https://github.com/helion-security/helion"
   title: Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses
