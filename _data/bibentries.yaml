@@ -2,32 +2,66 @@
   title: Systematic Mutation-based Evaluation of the Soundness of Security-focused Android Static Analysis Techniques
   author: Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
   venue: ACM Transactions on Privacy and Security (TOPS)
-  date: To appear
+  website: https://muse-security-evaluation.github.io
+  date: February, 2021
+  link: assets/pdf/ami-tops21.pdf
   bib: |
     @INPROCEEDINGS{ami-tops21,
      author={Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
      title={{Systematic Mutation-based Evaluation of the Soundness of Security-focused Android Static Analysis Techniques}},
      booktitle={ACM Transactions on Privacy and Security (TOPS)},
-     year={2021}
+     year={2021},
+     articleno = {15},
+     numpages = {37},
+     issue_date = {February 2021},
+     publisher = {Association for Computing Machinery},
+     address = {New York, NY, USA},
+     volume = {24},
+     number = {3},
+     issn = {2471-2566},
+     website = {https://muse-security-evaluation.github.io},
+     url = {https://doi.org/10.1145/3439802},
      }
 - type: journal
   link: https://doi.org/10.1145/3418286
   title: Security in Centralized Data Store-based Home Automation Platforms- A Systematic Analysis of Nest and Hue
   author: Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk
   venue: ACM Transactions on Cyber-Physical Systems (TCPS)
-  date: December, 2020
+  date: January, 2021
   bib: |
     @INPROCEEDINGS{kafle-tcps20,
      author={Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk},
      title={{Security in Centralized Data Store-based Home Automation Platforms- A Systematic Analysis of Nest and Hue}},
      booktitle={ACM Transactions on Cyber-Physical Systems (TCPS)},
-     year={2020}
+     year={2021},
+     issue_date = {January 2021},
+     publisher = {Association for Computing Machinery},
+     address = {New York, NY, USA},
+     volume = {5},
+     number = {1},
+     issn = {2378-962X},
+     url = {https://doi.org/10.1145/3418286},
+     }
+- type: conference
+  title: "Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques"
+  author: Amit Seal Ami and Nathan Cooper and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 43rd IEEE Symposium on Security and Privacy (IEEE S&P'22)
+  date: To appear
+  link: assets/pdf/ami-oakland22.pdf
+  bib: |
+    @INPROCEEDINGS{ami-oakland22,
+     author={Amit Seal Ami Nathan Cooper and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques}},
+     booktitle={Proceedings of the 43rd IEEE Symposium on Security and Privacy (IEEE S&P'22)},
+     year={2022},
+     website = {https://github.com/Secure-Platforms-Lab-W-M/masc-artifact}
      }
 - type: conference
   title: "Demo: Mutation-based Evaluation of Security-focused Static Analysis Tools for Android"
   author: Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
   venue: Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)
-  date: To appear
+  date: May, 2021
+  link: https://arxiv.org/abs/2102.06823
   bib: |
     @INPROCEEDINGS{manandhar-oakland20,
      author={Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
@@ -35,6 +69,7 @@
      booktitle={Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)},
      year={2021},
      month= may,
+     website = {https://muse-security-evaluation.github.io}
      }
 - type: conference
   link: assets/pdf/manandhar-oakland20.pdf
