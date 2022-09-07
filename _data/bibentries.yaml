@@ -43,10 +43,44 @@
      url = {https://doi.org/10.1145/3418286},
      }
 - type: conference
+  title: "Understanding IoT Security from a Market-Scale Perspective"
+  author: Xin Jin* and Sunil Manandhar* and Kaushal Kafle and Zhiqiang Lin and Adwait Nadkarni
+  note: "*Co-first authors"
+  venue: Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS)
+  date: To appear
+  link: assets/pdf/manandhar-ccs22.pdf
+  website: https://github.com/Secure-Platforms-Lab-W-M/IoTSpotter
+  bib: |
+    @INPROCEEDINGS{manandhar-ccs22,
+     author={Jin\*, Xin and Manandhar\*, Sunil and Kafle, Kaushal and Lin, Zhiqiang and Nadkarni, Adwait},
+     title={{Understanding IoT Security from a Market-Scale Perspective}},
+     booktitle={Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS)},
+     year={2022},
+     month = Nov,
+     address = {Los Angeles, CA, USA},
+     note = {*Co-first Authors., To appear}
+     website = {https://github.com/Secure-Platforms-Lab-W-M/IoTSpotter}
+     }
+- type: conference
+  title: "Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage"
+  author: Sunil Manandhar and Kaushal Kafle and Benjamin Andow and Kapil Singh and Adwait Nadkarni
+  venue: Proceedings of the 31st USENIX Security Symposium (USENIX'22)
+  date: Aug, 2022
+  link: assets/pdf/manandhar-sec22.pdf
+  website: https://github.com/Secure-Platforms-Lab-W-M/smart-home-privacy-policies
+  bib: |
+    @INPROCEEDINGS{manandhar-sec22,
+     author={Manandhar, Sunil and Kafle, Kaushal and Andow, Benjamin and Singh, Kapil and Nadkarni, Adwait},
+     title={{Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage}},
+     booktitle={Proceedings of the 31st USENIX Security Symposium (USENIX'22)},
+     year={2022},
+     website = {https://github.com/Secure-Platforms-Lab-W-M/smart-home-privacy-policies}
+     }
+- type: conference
   title: "Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques"
   author: Amit Seal Ami and Nathan Cooper and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
   venue: Proceedings of the 43rd IEEE Symposium on Security and Privacy (IEEE S&P'22)
-  date: To appear
+  date: May, 2022
   link: assets/pdf/ami-oakland22.pdf
   bib: |
     @INPROCEEDINGS{ami-oakland22,
