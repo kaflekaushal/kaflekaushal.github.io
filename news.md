@@ -7,6 +7,19 @@ title: News
 <div class="container all-news">
   <!-- <h2>News</h2> -->
   <ul>
+  <li> <strong> April 17, 2023: </strong> Won the <a href="https://twitter.com/cyber_cci/status/1648787197322223616"
+        target="_blank">best poster award</a> at the CCI Symposium 2023!
+    </li>
+    <li><strong>April 17, 2023: </strong> Presented a poster on the privacy practices of election campaign websites at
+      the <a href="https://cyberinitiative.org/events-programs/2023/cci-symposium-2023.html" target="_blank"> CCI
+        Symposium
+      </a>.
+    </li>
+    <li><strong>April 3, 2023: </strong>I have been selected as the <strong>2023 Commonwealth of Virginia Engineering
+        and Science
+        (<a href="https://www.vasem.org/coves-fellowship-program" target="_blank">COVES</a>) Policy Fellow</strong>!
+      Work begins at the end of May.
+    </li>
     <li><strong>August 26, 2022: </strong>Our paper, <em>Understanding IoT Security from a Market-Scale Perspective</em>
       has been accepted to the ACM Conference on Computer and Communications Security (CCS) 2022!
     </li>
