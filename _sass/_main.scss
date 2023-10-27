@@ -1,6 +1,6 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
 body {
   background: $backgroundColor;
@@ -8,28 +8,34 @@ body {
   font-family: $bodyFont;
 }
 
-.page-content{
+.page-content {
   padding: 30px;
   font-family: 'Titillium Web', sans-serif;
 }
 
-.image-container{
+.image-container {
   max-width: 200px;
   // padding-right: 50px;
 }
 
-.post-header{
+.post-header {
   border-bottom: 2px solid #e8e8e8;
   margin-bottom: 10px;
 }
 
-.page-content a:link, .page-content a:visited {
+.page-content a:link,
+.page-content a:visited {
   // background-color: #f44336;
   text-decoration: none;
   display: inline-block;
 }
 
-.page-content a:hover, .page-content a:active {
+.page-content a:hover,
+.page-content a:active {
   color: #117a8b;
   // background-color: #f3f5f7;
 }
+
+// recent-news-header {
+//   margin-left: 200px;
+// }
