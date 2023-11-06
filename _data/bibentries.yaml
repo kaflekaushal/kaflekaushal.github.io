@@ -16,7 +16,7 @@
      note = {To appear}
      website = {https://github.com/polityzer}
      }
-- type: conference
+- type: tooldemo
   title: "MASC: A Tool for Mutation-based Evaluation of Static Crypto-API Misuse Detectors"
   author: Amit Seal Ami, et al.,
   venue: Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track
@@ -34,7 +34,7 @@
      note = {To appear}
      website = {https://amitsealami.com/MASC/}
      }
-- type: conference
+- type: tooldemo
   title: "Helion: Enabling Natural Testing of Smart Homes"
   author: Prianka Mandal and Sunil Manandhar and Kaushal Kafle and Kevin Moran and Denys Poshyvanyk and Adwait Nadkarni
   venue: Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track
@@ -100,14 +100,14 @@
      year={2022},
      website = {https://github.com/Secure-Platforms-Lab-W-M/masc-artifact}
      }
-- type: conference
+- type: tooldemo
   title: "Demo: Mutation-based Evaluation of Security-focused Static Analysis Tools for Android"
   author: Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
   venue: Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)
   date: May, 2021
   link: https://conf.researchr.org/details/icse-2021/icse-2021-Demonstrations/14/-SE-Mutation-based-Evaluation-of-Security-focused-Static-Analysis-Tools-for-Android
   bib: |
-    @INPROCEEDINGS{manandhar-oakland20,
+    @INPROCEEDINGS{ami-icse21-demo,
      author={Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
      title={{Demo: Mutation-based Evaluation of Security-focused Static Analysis Tools for Android}},
      booktitle={Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)},
