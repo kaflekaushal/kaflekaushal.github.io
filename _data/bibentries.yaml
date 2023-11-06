@@ -1,4 +1,22 @@
 - type: conference
+  title: "Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites"
+  author: Kaushal Kafle and Prianka Mandal and Benjamin Andow and Kapil Singh and Adwait Nadkarni
+  venue: Proceedings of the 2024 IEEE Symposium on Security and Privacy (Oakland)
+  date: To appear
+  link: assets/pdf/kafle-oakland24.pdf
+  website: https://github.com/polityzer
+  bib: |
+    @INPROCEEDINGS{kafle-oakland24,
+     author={Kafle, Kaushal and Mandal, Prianka and Singh, Kapil and Andow, Benjamin and Nadkarni, Adwait},
+     title={Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites}},
+     booktitle={Proceedings of the 2024 IEEE Symposium on Security and Privacy (Oakland)},
+     year={2024},
+     month = May,
+     address = {Oakland, CA, USA},
+     note = {To appear}
+     website = {https://github.com/polityzer}
+     }
+- type: conference
   title: "MASC: A Tool for Mutation-based Evaluation of Static Crypto-API Misuse Detectors"
   author: Amit Seal Ami, et al.,
   venue: Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track
