@@ -7,6 +7,10 @@ title: News
 <div class="container all-news">
   <!-- <h2>News</h2> -->
   <ul>
+  <li><strong>December 6, 2023</strong> My experiences at the CRA LiSPI workshop, and how the
+      workshop can potentially benefit other PhD students like me has been published in the <a
+        href="https://cra.org/govaffairs/blog/2023/12/lispi-perspective-kafle/" target="_blank"> CRA policy blog</a>.
+    </li>
   <li> <strong>November 16-17, 2023</strong> I participated in the CRA <a href="https://cra.org/ccc/leadership-development/lispi" target="_blank"><em>Leadership in Science Policy Institute (LiSPI)</em></a> workshop as a student volunteer. The workshop is an excellent opportunity to learn about how science policy works at the federal level and how we can contribute as computer researchers.</li>
   <li> <strong>October 27, 2023</strong> Our paper, <em>“Understanding the Privacy Practices of Political Campaigns”:”
         A Perspective from the 2020 US Election Websites”</em> has been accepted to the IEEE Symposium on Security and

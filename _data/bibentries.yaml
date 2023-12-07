@@ -119,12 +119,12 @@
   link: assets/pdf/manandhar-oakland20.pdf
   website: "https://github.com/helion-security/helion"
   title: Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses
-  author: Sunil Manandhar and Kevin Moran and Kaushal Kafle and Denys Poshyvanyk and Adwait Nadkarni
+  author: Sunil Manandhar and Kevin Moran and Kaushal Kafle and Ruhao Tang and Denys Poshyvanyk and Adwait Nadkarni
   venue: Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland)
   date: May, 2020
   bib: |
     @INPROCEEDINGS{manandhar-oakland20,
-     author={Sunil Manandhar and Kevin Moran and Kaushal Kafle and Denys Poshyvanyk and Adwait Nadkarni},
+     author={Sunil Manandhar and Kevin Moran and Kaushal Kafle and Ruhao Tang and Denys Poshyvanyk and Adwait Nadkarni},
      title={{Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses}},
      booktitle={Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland)},
      year={2020},
