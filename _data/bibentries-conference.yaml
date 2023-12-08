@@ -1,0 +1,119 @@
+- type: conference
+  title: "[7] Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites"
+  author: Kaushal Kafle and Prianka Mandal and Benjamin Andow and Kapil Singh and Adwait Nadkarni
+  venue: Proceedings of the 2024 IEEE Symposium on Security and Privacy (Oakland)
+  date: To appear
+  link: assets/conference/kafle-oakland24.pdf
+  website: https://github.com/polityzer
+  bib: |
+    @INPROCEEDINGS{kafle-oakland24,
+     author={Kafle, Kaushal and Mandal, Prianka and Singh, Kapil and Andow, Benjamin and Nadkarni, Adwait},
+     title={Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites}},
+     booktitle={Proceedings of the 2024 IEEE Symposium on Security and Privacy (Oakland)},
+     year={2024},
+     month = May,
+     address = {Oakland, CA, USA},
+     note = {To appear}
+     website = {https://github.com/polityzer}
+     }
+
+- type: conference
+  title: "[6] Understanding IoT Security from a Market-Scale Perspective"
+  author: Xin Jin* and Sunil Manandhar* and Kaushal Kafle and Zhiqiang Lin and Adwait Nadkarni
+  note: "*Co-first authors"
+  venue: Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS)
+  date: Nov, 2022
+  link: assets/conference/manandhar-ccs22.pdf
+  website: https://github.com/Secure-Platforms-Lab-W-M/IoTSpotter
+  bib: |
+    @INPROCEEDINGS{manandhar-ccs22,
+     author={Jin\*, Xin and Manandhar\*, Sunil and Kafle, Kaushal and Lin, Zhiqiang and Nadkarni, Adwait},
+     title={{Understanding IoT Security from a Market-Scale Perspective}},
+     booktitle={Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS)},
+     year={2022},
+     month = Nov,
+     address = {Los Angeles, CA, USA},
+     note = {*Co-first Authors.}
+     website = {https://github.com/Secure-Platforms-Lab-W-M/IoTSpotter}
+     }
+- type: conference
+  title: "[5] Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage"
+  author: Sunil Manandhar and Kaushal Kafle and Benjamin Andow and Kapil Singh and Adwait Nadkarni
+  venue: Proceedings of the 31st USENIX Security Symposium (USENIX'22)
+  date: Aug, 2022
+  link: assets/conference/manandhar-sec22.pdf
+  website: https://github.com/Secure-Platforms-Lab-W-M/smart-home-privacy-policies
+  bib: |
+    @INPROCEEDINGS{manandhar-sec22,
+     author={Manandhar, Sunil and Kafle, Kaushal and Andow, Benjamin and Singh, Kapil and Nadkarni, Adwait},
+     title={{Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage}},
+     booktitle={Proceedings of the 31st USENIX Security Symposium (USENIX'22)},
+     year={2022},
+     website = {https://github.com/Secure-Platforms-Lab-W-M/smart-home-privacy-policies}
+     }
+- type: conference
+  title: "[4] Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques"
+  author: Amit Seal Ami and Nathan Cooper and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 43rd IEEE Symposium on Security and Privacy (IEEE S&P'22)
+  date: May, 2022
+  link: assets/conference/ami-oakland22.pdf
+  bib: |
+    @INPROCEEDINGS{ami-oakland22,
+     author={Amit Seal Ami Nathan Cooper and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques}},
+     booktitle={Proceedings of the 43rd IEEE Symposium on Security and Privacy (IEEE S&P'22)},
+     year={2022},
+     website = {https://github.com/Secure-Platforms-Lab-W-M/masc-artifact}
+     }
+
+- type: conference
+  link: assets/conference/manandhar-oakland20.pdf
+  website: "https://github.com/helion-security/helion"
+  title: "[3] Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses"
+  author: Sunil Manandhar and Kevin Moran and Kaushal Kafle and Ruhao Tang and Denys Poshyvanyk and Adwait Nadkarni
+  venue: Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland)
+  date: May, 2020
+  bib: |
+    @INPROCEEDINGS{manandhar-oakland20,
+     author={Sunil Manandhar and Kevin Moran and Kaushal Kafle and Ruhao Tang and Denys Poshyvanyk and Adwait Nadkarni},
+     title={{Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses}},
+     booktitle={Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland)},
+     year={2020},
+     month= may,
+     address={San Francisco, California, USA}
+     }
+- type: conference
+  link: assets/conference/kafle-codaspy19.pdf
+  press: /publications#press
+  title: "[2] A Study of Data Store-based Home Automation"
+  author: Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 9th ACM Conference on Data and Application Security and Privacy (CODASPY)
+  date: March, 2019
+  note: Best Paper Award!
+  bib: |
+    @INPROCEEDINGS{kafle-codaspy19,
+     author={Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{A Study of Data Store-based Home Automation}},
+     booktitle={Proceedings of the 9th ACM Conference on Data and Application Security and Privacy
+     (CODASPY)},
+     year={2019},
+     address = {Dallas, TX, USA},
+     month= mar,
+     }
+- type: conference
+  link: assets/conference/bonett-sec18.pdf
+  website: https://muse-security-evaluation.github.io/
+  title: "[1] Discovering Flaws in Security-Focused Static Analysis Tools for Android using Systematic Mutation"
+  author: Richard Bonett and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 27th USENIX Security Symposium
+  date: August, 2018
+  bib: |
+    @INPROCEEDINGS{bonett-sec18,
+     author={Richard Bonett and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Discovering Flaws in Security-Focused Static Analysis Tools for Android using Systematic Mutation}},
+     booktitle={Proceedings of the 27th USENIX Security Symposium},
+     year={2018},
+     address = {Baltimore, MD, USA},
+     month= aug,
+    }
+

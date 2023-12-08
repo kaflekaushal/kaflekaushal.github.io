@@ -1,0 +1,14 @@
+- type: undergrad
+  link: assets/others/kafle-ioegc16.pdf
+  title: "[1] Improving Nepali Document Classification by Neural Network"
+  author: Kaushal Kafle and Diwas Sharma and Aayush Subedi and Arun Kr. Timalsina
+  venue: Proceedings of IOE Graduate Conference
+  date: 2016
+  bib: |
+    @INPROCEEDINGS{kafle-ioegc16,
+      title={Improving Nepali Document Classification by Neural Network},
+      author={Kafle, Kaushal and Sharma, Diwas and Subedi, Aayush and Timalsina, Arun Kr},
+      booktitle={Proceedings of IOE Graduate Conference},
+      pages={317--322},
+      year={2016}
+    }

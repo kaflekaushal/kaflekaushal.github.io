@@ -1,0 +1,45 @@
+- type: journal
+  title: "[2] Systematic Mutation-based Evaluation of the Soundness of Security-focused Android Static Analysis Techniques"
+  author: Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
+  venue: ACM Transactions on Privacy and Security (TOPS)
+  website: https://muse-security-evaluation.github.io
+  date: February, 2021
+  link: assets/journal/ami-tops21.pdf
+  bib: |
+    @INPROCEEDINGS{ami-tops21,
+     author={Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Systematic Mutation-based Evaluation of the Soundness of Security-focused Android Static Analysis Techniques}},
+     booktitle={ACM Transactions on Privacy and Security (TOPS)},
+     year={2021},
+     articleno = {15},
+     numpages = {37},
+     issue_date = {February 2021},
+     publisher = {Association for Computing Machinery},
+     address = {New York, NY, USA},
+     volume = {24},
+     number = {3},
+     issn = {2471-2566},
+     website = {https://muse-security-evaluation.github.io},
+     url = {https://doi.org/10.1145/3439802},
+     }
+
+- type: journal
+  link: https://doi.org/10.1145/3418286
+  title: "[1] Security in Centralized Data Store-based Home Automation Platforms- A Systematic Analysis of Nest and Hue"
+  author: Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk
+  venue: ACM Transactions on Cyber-Physical Systems (TCPS)
+  date: January, 2021
+  bib: |
+    @INPROCEEDINGS{kafle-tcps20,
+     author={Kaushal Kafle and Kevin Moran and Sunil Manandhar and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Security in Centralized Data Store-based Home Automation Platforms- A Systematic Analysis of Nest and Hue}},
+     booktitle={ACM Transactions on Cyber-Physical Systems (TCPS)},
+     year={2021},
+     issue_date = {January 2021},
+     publisher = {Association for Computing Machinery},
+     address = {New York, NY, USA},
+     volume = {5},
+     number = {1},
+     issn = {2378-962X},
+     url = {https://doi.org/10.1145/3418286},
+     }

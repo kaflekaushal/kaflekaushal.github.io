@@ -1,0 +1,50 @@
+- type: tooldemo
+  title: "[3] MASC: A Tool for Mutation-based Evaluation of Static Crypto-API Misuse Detectors"
+  author: Amit Seal Ami, et al.,
+  venue: Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track
+  date: Dec, 2023
+  link: assets/tool/ami-fse23-demo.pdf
+  website: https://amitsealami.com/MASC/
+  bib: |
+    @INPROCEEDINGS{ami-fse23-demo,
+     author={Ami, Amit Seal and Ahmed, Syed Yusuf and Redoy, Radowan Mahmud and Cooper, Nathan and Kafle, Kaushal and Moran, Kevin and Poshyvanyk, Denys and Nadkarni, Adwait},
+     title={MASC: A Tool for Mutation-based Evaluation of Static Crypto-API Misuse Detectors}},
+     booktitle={Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'23), Demonstration Track},
+     year={2023},
+     month = Dec,
+     address = {San Franscisco, CA, USA},
+     website = {https://amitsealami.com/MASC/}
+     }
+- type: tooldemo
+  title: "[2] Helion: Enabling Natural Testing of Smart Homes"
+  author: Prianka Mandal and Sunil Manandhar and Kaushal Kafle and Kevin Moran and Denys Poshyvanyk and Adwait Nadkarni
+  venue: Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track
+  date: Dec, 2023
+  link: assets/tool/mandal-fse23-demo.pdf
+  website: https://github.com/Secure-Platforms-Lab-W-M/Helion-on-Home-Assistant
+  bib: |
+    @INPROCEEDINGS{mandal-fse23,
+     author={Mandal, Prianka and Manandhar, Sunil and Kafle, Kaushal and Moran, Kevin and Poshyvanyk, Denys and Nadkarni, Adwait},
+     title={{Helion: Enabling Natural Testing of Smart Homes}},
+     booktitle={Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track},
+     year={2023},
+     month = Dec,
+     address = {San Franscisco, CA, USA},
+     website = {https://github.com/Secure-Platforms-Lab-W-M/Helion-on-Home-Assistant}
+     }
+
+- type: tooldemo
+  title: "[1] Demo: Mutation-based Evaluation of Security-focused Static Analysis Tools for Android"
+  author: Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
+  venue: Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)
+  date: May, 2021
+  link: https://conf.researchr.org/details/icse-2021/icse-2021-Demonstrations/14/-SE-Mutation-based-Evaluation-of-Security-focused-Static-Analysis-Tools-for-Android
+  bib: |
+    @INPROCEEDINGS{ami-icse21-demo,
+     author={Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
+     title={{Demo: Mutation-based Evaluation of Security-focused Static Analysis Tools for Android}},
+     booktitle={Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)},
+     year={2021},
+     month= may,
+     website = {https://muse-security-evaluation.github.io}
+     }

@@ -1,40 +1,71 @@
-.other-publication, .news-coverage{
+.other-publication,
+.news-coverage {
   border-top: 2px solid #e8e8e8;
   padding-top: 15px;
 }
 
-.publication-list{
+.publication-list {
   font-family: Roboto;
 }
 
-.paper-title{
+.publication-list h3 {
+  font-family: "Gill Sans Extrabold", sans-serif;
+}
+
+.conference-papers h3 {
+  margin-left: -1em;
+  margin-top: 1.1em;
+}
+
+.conference-paper-list {
+  list-style-type: none;
+  /* Remove bullets */
+  padding: 0;
+  /* Remove padding */
+  margin: 0;
+  /* Remove margins */
+}
+
+.paper-title {
+  // font-family: "Gill Sans Extrabold", sans-serif;
   text-transform: capitalize;
   font-weight: bold;
-  font-size: 1.1em;
-  color: #2c4060;
+  font-size: 1.075em;
+  color: #1d2c45;
 }
 
-.paper-metadata li{
-  list-style: square;
+.paper-metadata li {
+  // list-style: square;
+  list-style-image: linear-gradient(to left bottom, rgba(136, 0, 255, 0.147), rgb(0, 16, 36));
+  // list-style-image: url('/assets/images/arrow.ico');
+  margin-top: -0.25em;
+
 }
 
-.paper-venue, .paper-special-note{
+.paper-venue,
+.paper-special-note {
   font-style: italic;
 }
 
-.full-bib pre{
+.paper-links a {
+  // color: #00305c;
+  font-size: 0.9em;
+}
+
+.full-bib pre {
   padding: 10px;
   font-family: courier;
   background-color: #eaeaea;
 }
 
-.bib-collapsible{
+.bib-collapsible {
   border: none;
   text-align: center;
   outline: none;
-  font-size: 1.1em;
+  font-size: 1em;
   color: #000;
-  width: 65px;
+  width: 60px;
+  height: 30px;
   background-color: #e4e7e8;
   vertical-align: middle;
 }
@@ -48,10 +79,10 @@
   overflow: hidden;
 }
 
-.paper-entry{
+.paper-entry {
   padding-bottom: 10px;
 }
 
-.news-coverage p{
+.news-coverage p {
   font-size: 1.1em;
 }
