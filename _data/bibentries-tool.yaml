@@ -38,7 +38,7 @@
   author: Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk
   venue: Proceedings of the 43rd IEEE/ACM International Conference on Software Engineering (ICSE’21)
   date: May, 2021
-  link: https://conf.researchr.org/details/icse-2021/icse-2021-Demonstrations/14/-SE-Mutation-based-Evaluation-of-Security-focused-Static-Analysis-Tools-for-Android
+  link: assets/tool/ami-icse21-demo.pdf
   bib: |
     @INPROCEEDINGS{ami-icse21-demo,
      author={Amit Seal Ami and Kaushal Kafle and Kevin Moran and Adwait Nadkarni and Denys Poshyvanyk},
