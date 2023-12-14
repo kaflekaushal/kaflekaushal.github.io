@@ -6,10 +6,22 @@
         <ul class="contact-list">
           <li><strong>{{ site.title }}</strong></li>
           <li><strong>Email:</strong> {{ site.email }}</li>
+          <!-- <li><strong><a href="https://scholar.google.com/citations?user=MWwYb90AAAAJ&hl=en" target="_blank">Google
+                Scholar </a></strong> </li> -->
         </ul>
       </div>
       <div class="footer-col col-sm social-media">
         <div class="social-media-list">
+          <!-- <object data="{{ 'assets/images/gscholar-icon.png'}}"  -->
+
+          {% if site.google_scholar_username %}
+          <a href="https://scholar.google.com/citations?user=MWwYb90AAAAJ&hl=en" target="_blank">
+            <span class="media-icon" id="google-scholar">
+              <img src="{{ 'assets/images/gscholar-icon-color.png'}}" alt="Google Scholar" width="24" height="24">
+              <span class="username">{{ site.google_scholar_username }}</span>
+            </span>
+          </a>
+          {% endif %}
 
           {% if site.twitter_username %}
           <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
