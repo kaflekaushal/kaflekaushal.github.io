@@ -7,6 +7,11 @@ title: News
 <div class="container all-news">
   <!-- <h2>News</h2> -->
   <ul>
+  <li> <strong>December 18, 2023</strong> Our paper, <em>“Practical Integrity Validation in the Smart Home with
+        HomeEndorser”</em> has been accepted to the ACM Conference on Security and Privacy in Wireless and Mobile
+      Networks (WiSec), 2024! [<a href="{{ 'assets/pdf/kafle-wisec24-preprint.pdf' | relative_url }}"
+        target="_blank">preprint</a>]
+    </li>
   <li><strong>December 6, 2023</strong> My experiences at the CRA LiSPI workshop, and how the
       workshop can potentially benefit other PhD students like me has been published in the <a
         href="https://cra.org/govaffairs/blog/2023/12/lispi-perspective-kafle/" target="_blank"> CRA policy blog</a>.
