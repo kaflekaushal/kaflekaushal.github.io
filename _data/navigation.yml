@@ -4,6 +4,9 @@
 - name: Publications
   link: "/publications"
 
+- name: Tools and Artifacts
+  link: "/tools"
+
 - name: CV
   link: "assets/others/cv.pdf"
 
