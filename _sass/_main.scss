@@ -14,8 +14,8 @@ body {
 }
 
 .image-container {
-  max-width: 200px;
-  // padding-right: 50px;
+  max-width: 260px;
+  // padding-left: 50px;
 }
 
 .post-header {
@@ -46,6 +46,11 @@ body {
 
 .bio-research {
   margin-top: -0.5em;
+}
+
+.immediate {
+  color: red;
+  font-size: 1.1em;
 }
 
 // recent-news-header {

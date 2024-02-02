@@ -7,6 +7,8 @@ title: News
 <div class="container all-news">
   <!-- <h2>News</h2> -->
   <ul>
+  <li><strong>February, 2024</strong> I will participate in the 2024 <em>Science Policy & Advocacy for Research
+        Competition (SPARC)</em> series, conducted by the Universities Research Association (URA)!</li>
   <li> <strong>December 18, 2023</strong> Our paper, <em>“Practical Integrity Validation in the Smart Home with
         HomeEndorser”</em> has been accepted to the ACM Conference on Security and Privacy in Wireless and Mobile
       Networks (WiSec), 2024! [<a href="{{ 'assets/pdf/kafle-wisec24-preprint.pdf' | relative_url }}"
