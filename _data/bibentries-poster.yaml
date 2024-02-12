@@ -1,4 +1,10 @@
 - type: poster
+  title: "[6] Understanding the Privacy Practices of Political Campaigns"
+  venue: Network and Distributed System Security (NDSS) Symposium, San Diego, CA
+  date: February, 2024
+  link: assets/poster/2024-ndss-poster.pdf
+
+- type: poster
   title: "[5] Security and Privacy in the Smart Home Ecosystem"
   venue: Annual Virginia Academy of Science, Engineering and Medicine (VASEM) Summit, Richmond, VA 
   date: October, 2023
