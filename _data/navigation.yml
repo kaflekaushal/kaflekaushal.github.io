@@ -4,14 +4,13 @@
 - name: Publications
   link: "/publications"
 
-- name: Tools and Artifacts
-  link: "/tools"
-
 - name: Teaching
   link: "/teaching"
 
+- name: Tools and Artifacts
+  link: "/tools"
+
 - name: CV
   link: "assets/others/cv.pdf"
-
-- name: "Lab"
-  link: "https://spl-wm.github.io/"
+# - name: "Lab"
+#   link: "https://spl-wm.github.io/"

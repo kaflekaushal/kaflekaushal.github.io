@@ -7,6 +7,10 @@ title: News
 <div class="container all-news">
   <!-- <h2>News</h2> -->
   <ul>
+  <li><strong>August, 2024</strong> Joined the CSE department at University of South Florida as a tenure-track Assistant Professor!</li>
+  <li><strong>June, 2024</strong> I was invited to Ballotpedia's <em>'On the Ballot'</em> podcast to discuss on 
+      the topic of "Personal data and the privacy gaps of political campaigns". 
+      Listen to the <a href="https://pod.link/1657489541/episode/a0008aa99c49fa7038d9eeaf611e7453">episode here</a>!</li>
   <li><strong>February, 2024</strong> I will participate in the 2024 <em>Science Policy & Advocacy for Research
         Competition (SPARC)</em> series, conducted by the Universities Research Association (URA)!</li>
   <li> <strong>December 18, 2023</strong> Our paper, <em>“Practical Integrity Validation in the Smart Home with
