@@ -1,7 +1,9 @@
 ---
+
 layout: page
 permalink: /teaching
 title: Teaching at USF
+
 ---
 
 ### CIS 4930 - Secure IoT
