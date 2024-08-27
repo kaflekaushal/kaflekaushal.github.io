@@ -7,6 +7,9 @@
 - name: Tools and Artifacts
   link: "/tools"
 
+- name: Teaching
+  link: "/teaching"
+
 - name: CV
   link: "assets/others/cv.pdf"
 
