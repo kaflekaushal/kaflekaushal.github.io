@@ -21,7 +21,7 @@
   author: Kaushal Kafle and Kirti Jagtap and Mansoor Ahmed-Rengers and Trent Jaeger and Adwait Nadkarni
   venue: Proceedings of the 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec'24)
   date: May, 2024
-  link: assets/conference/kafle-wisec24-preprint.pdf
+  link: assets/conference/kafle-wisec24.pdf
   # website: https://github.com/polityzer
   bib: |
     @INPROCEEDINGS{kafle-wisec24,
