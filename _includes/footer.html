@@ -65,9 +65,10 @@
       <div class="footer-col col-sm">
         <ul class="office-address">
           <!-- {{site.address}} -->
+           <h5>Office:</h5>
           {% assign addresslist = site.address | split: " | "%}
           {% for addr in addresslist %}
-          <li>{{ addr }}</li>
+          <li><strong>{{ addr }}</strong></li>
           {% endfor %}
         </ul>
 
