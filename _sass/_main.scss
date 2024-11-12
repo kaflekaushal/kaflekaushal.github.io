@@ -65,3 +65,14 @@ th,
 td {
   border: 0.5px solid black;
 }
+
+#recruitment {
+  font-size: 1.3em;
+  color: rgb(69, 34, 34); 
+  // color: white;
+  border: 2px solid black; /* Creates the box border */
+  padding: 10px;          /* Adds space between the content and the border */
+  width: fit-content;    /* Adjusts the width to fit the content */
+  margin: 20px auto;     /* Centers the box horizontally */
+  background-color: #f9f9f9;/*#648991; /* Light gray background */
+}
