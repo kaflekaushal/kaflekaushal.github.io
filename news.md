@@ -7,6 +7,7 @@ title: News
 <div class="container all-news">
   <!-- <h2>News</h2> -->
   <ul>
+  <li><strong>February, 2025</strong> Recognized as the <a href="https://x.com/KaushalKafle/status/1896631615901798504">Distinguished Reviewer</a> at NDSS'25! Thanks NDSS!</li>
   <li><strong>August, 2024</strong> Joined the CSE department at University of South Florida as a tenure-track Assistant Professor!</li>
   <li><strong>June, 2024</strong> I was invited to Ballotpedia's <em>'On the Ballot'</em> podcast to discuss on 
       the topic of "Personal data and the privacy gaps of political campaigns". 
